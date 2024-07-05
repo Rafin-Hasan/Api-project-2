@@ -24,3 +24,18 @@ List key features of your API website. For example:
 - Feature 3
 
 ## Getting Started
+Guide users through setting up your API website locally. Include instructions on how to install dependencies, configure settings, and run the website.
+
+### Prerequisites
+
+List any software or dependencies that need to be installed before setting up your API.
+
+### Installation
+
+Provide step-by-step instructions on how to install your API website.
+
+## Usage
+
+Provide examples and instructions for using your API. Include common API endpoints, parameters, and expected responses.
+
+## API Documentation
