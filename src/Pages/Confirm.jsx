@@ -20,7 +20,7 @@ const Confirm = () => {
   return (
     <>
       <div className="flex flex-col h-[100vh] justify-center items-center shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)] rounded-lg ">
-        <div>
+        <div className="shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] p-2 rounded-lg">
           <h1 className="text-3xl font-Polksa font-bold p-3">
             Are you sure you want to buy {data.name}
           </h1>
@@ -34,7 +34,7 @@ const Confirm = () => {
             <span className="text-red-500 pl-1">{totalPrice.toFixed(2)}$</span>
           </h2>
         </div>
-        <div>
+        <div className="mt-3 flex gap-4">
           <button
             onClick={done}
             className="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800"

@@ -7,7 +7,6 @@ import {
 import "./App.css";
 import Home from "./Pages/Home";
 import Laptops from "./Pages/Laptops";
-import Contact from "./Pages/Contact";
 import Cart from "./Pages/Cart";
 import NotFound from "./Pages/NotFound";
 import Employees from "./Pages/Employees";
@@ -24,7 +23,6 @@ function App() {
       <Route>
         <Route path="/" element={<LayoutOne />}>
           <Route index element={<Home />} />
-          <Route path="/contact" element={<Contact />} />
           <Route path="/laptop" element={<Laptops />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/employees" element={<Employees />} />

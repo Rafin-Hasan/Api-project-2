@@ -7,7 +7,7 @@ const Cart = () => {
   const data = useSelector((state) => state.Counter.value);
 
   const change = () => {
-    navigate("/order");
+    navigate("/confirm");
   };
   const go = () => {
     navigate("/laptop");
@@ -15,7 +15,7 @@ const Cart = () => {
 
   return (
     <>
-      <div className="w-full bg-[#06D001] mt-10 flex justify-around">
+      <div className="w-full bg-[#3FA2F6] mt-10 flex justify-around">
         <img src={data.image} alt="product pic" />
         <div className="pt-[3rem] font-poppins font-semibold text-center">
           <p>{data.name}</p>

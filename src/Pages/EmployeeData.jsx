@@ -12,9 +12,9 @@ const EmployeeData = () => {
     <>
       <div className="container p-4">
         <div>
-          <div className="w-full rounded-full">
+          <div className="w-full rounded-full flex justify-center items-center">
             <img
-              className="w-full h-full rounded-full"
+              className="w-[400px] rounded-full "
               src={data.photo_url}
               alt="photo"
             />
