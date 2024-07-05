@@ -18,3 +18,9 @@ This repository contains an API website project that [briefly describe what your
 Provide a brief introduction to your API website. Mention its purpose, what problem it solves, and any unique features it has.
 
 ## Features
+List key features of your API website. For example:
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Getting Started
