@@ -39,3 +39,12 @@ Provide step-by-step instructions on how to install your API website.
 Provide examples and instructions for using your API. Include common API endpoints, parameters, and expected responses.
 
 ## API Documentation
+Link to or include detailed API documentation if available. Describe each endpoint, its purpose, required parameters, and example responses.
+
+## Contributing
+
+Provide guidelines for contributing to your project if you're open to community contributions. Include information on how to submit bug reports, feature requests, or pull requests.
+
+## License
+
+Specify the license under which your API website is distributed.
