@@ -13,3 +13,8 @@ This repository contains an API website project that [briefly describe what your
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
+## Introduction
+
+Provide a brief introduction to your API website. Mention its purpose, what problem it solves, and any unique features it has.
+
+## Features
